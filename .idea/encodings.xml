@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/SportFacilities.csv" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/City.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/DBWorker.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/FacilitiesData.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Facility.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Work.java" charset="windows-1251" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/a397567c-0fe1-4c4c-b53a-d5d65352abdb/console.sql" charset="windows-1251" />
+  </component>
+</project>
