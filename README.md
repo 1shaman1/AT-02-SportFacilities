@@ -19,6 +19,6 @@
 ![image](https://user-images.githubusercontent.com/79924068/147241338-fba0b946-ae01-4a41-9f34-89369ae72363.png)
 
 
-Задание 2:
+Задание 2 и 3:
 ![image](https://user-images.githubusercontent.com/79924068/147241381-9aa6c5db-dd1c-4b31-9cf4-8a8136e2d0ad.png)
 
